@@ -1,0 +1,5 @@
+require "pogoprotos/settings/master/pokemon/camera_attributes"
+require "pogoprotos/settings/master/pokemon/pokemon_gender_settings"
+require "pogoprotos/settings/master/pokemon/encounter_attributes"
+require "pogoprotos/settings/master/pokemon/evolution_branch"
+require "pogoprotos/settings/master/pokemon/stats_attributes"

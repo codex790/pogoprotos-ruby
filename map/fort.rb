@@ -1,0 +1,7 @@
+require "pogoprotos/map/fort/fort_lure_info"
+require "pogoprotos/map/fort/fort_type"
+require "pogoprotos/map/fort/fort_modifier"
+require "pogoprotos/map/fort/fort_rendering_type"
+require "pogoprotos/map/fort/fort_data"
+require "pogoprotos/map/fort/fort_sponsor"
+require "pogoprotos/map/fort/fort_summary"

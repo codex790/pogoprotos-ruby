@@ -1,0 +1,8 @@
+require "pogoprotos/data/battle/battle_action"
+require "pogoprotos/data/battle/battle_results"
+require "pogoprotos/data/battle/battle_state"
+require "pogoprotos/data/battle/battle_pokemon_info"
+require "pogoprotos/data/battle/battle_participant"
+require "pogoprotos/data/battle/battle_type"
+require "pogoprotos/data/battle/battle_action_type"
+require "pogoprotos/data/battle/battle_log"
